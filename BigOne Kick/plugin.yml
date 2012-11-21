@@ -1,0 +1,6 @@
+name: BigOne Kick
+main: me.BigOne.AdobeGFX.NorwayZaGa.Kick.Kick
+version: 1.0
+commands:
+   kick:
+     description: Kicks a player
